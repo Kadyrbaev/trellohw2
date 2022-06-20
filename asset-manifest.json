@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trellohw2/static/css/main.4fdc2e36.css",
+    "main.js": "/trellohw2/static/js/main.44467f1f.js",
+    "static/media/ocean.avif": "/trellohw2/static/media/ocean.0c1d4d3201abfb7f95d9.avif",
+    "index.html": "/trellohw2/index.html",
+    "main.4fdc2e36.css.map": "/trellohw2/static/css/main.4fdc2e36.css.map",
+    "main.44467f1f.js.map": "/trellohw2/static/js/main.44467f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fdc2e36.css",
+    "static/js/main.44467f1f.js"
+  ]
+}
